@@ -155,9 +155,9 @@ a.active,a:hover{
     }
     }
 @media(max-width:858px){
-/*.checkbtn{
+.checkbtn{
 display:block;
-}*/
+}
   ul{
     position:fixed;
     width:100%;
