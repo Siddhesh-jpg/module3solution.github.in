@@ -16,9 +16,9 @@
     <nav>
       
        <input type="checkbox" id="check">
-      <label for="check" class="checkbtn"></label>
+      <label for="check" class="checkbtn">
       
-    <i class="fa fa-bars"> </i>
+    <i class="fa fa-bars"> </i></label>
  <label class="logo"> SIddheshJ</label> 
    <ul>
       
