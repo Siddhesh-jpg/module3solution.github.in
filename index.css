@@ -3,7 +3,7 @@
   box-sizing:border-box;
 }
 body{
-  background:#49474fff;
+  background: white;
 }
 p{
   width:90%;
@@ -125,7 +125,7 @@ nav ul li a{
 }
 a.active,a:hover{
   background: #1b9Bff;
-  transition: 0.05s;
+  transition: .05s;
 }
 .checkbtn{
   
@@ -135,7 +135,7 @@ a.active,a:hover{
   float: right;
   line-height: 80px;
   cursor: pointer;
-  display: block;
+  display:none;
   
 }
 
